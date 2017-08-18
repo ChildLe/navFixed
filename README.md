@@ -5,12 +5,8 @@ navFixed
 
 [jQuery版本以及官网](http://navfixed.jasinyip.com/)
 
-## 使用方法
-1.引入 navFixed.js。
 
-2.navFixed(selector)。
-
-## 示例
+## 使用示例
 ```html
 <div></div>
 <div id="nav">导航栏</div>
