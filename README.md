@@ -3,6 +3,8 @@ navFixed
 这是一款轻量级js插件。
 它可以让原本不是在顶部的导航条，在滚动到它的位置时固定在顶部。
 
+[jQuery版本以及官网](http://navfixed.jasinyip.com/)
+
 ## 使用方法
 1.引入 navFixed.js。
 
